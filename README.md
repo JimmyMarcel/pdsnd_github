@@ -15,3 +15,5 @@ my bikeshare project and coursed
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+#### Creating a documentation for my codes
+I will documents the scripts and steps used to do this project
