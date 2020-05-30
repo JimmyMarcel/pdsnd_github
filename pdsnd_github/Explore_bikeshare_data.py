@@ -76,7 +76,7 @@
     "table(chicago$Time)\n",
     "#Plot\n",
     "ggplot(aes(x = Time), data = chicago) +\n",
-    "  geom_bar(color = 'black', fill = '#F79420') +\n",
+    "  geom_bar(color = 'red', fill = '#F79420') +\n",
     "  ggtitle(\"Most popular hour\") +\n",
     "  xlab('hour of the day') +\n",
     "  ylab('Number of trips') + \n",
