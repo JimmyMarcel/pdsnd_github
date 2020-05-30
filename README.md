@@ -18,3 +18,4 @@ It's important to give proper credit. Add links to any repo that inspired you or
 ## Course changes
 Changes to the course questions
 plot color from black to red
+refactoring code
