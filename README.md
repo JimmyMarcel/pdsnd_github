@@ -17,5 +17,12 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ## Course changes
 Changes to the course questions
+<<<<<<< HEAD
 plot color from black to red
 refactoring code
+||||||| merged common ancestors
+plot color from black to red
+=======
+plot color from black to red
+documentation of code
+>>>>>>> documentation
