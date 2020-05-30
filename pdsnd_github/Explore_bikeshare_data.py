@@ -114,7 +114,7 @@
     "table(chicago$weekdays)\n",
     "#Plot\n",
     "ggplot(aes(x = weekdays), data = chicago) +\n",
-    "  geom_bar(color = 'black', fill = '#F79420') +\n",
+    "  geom_bar(color = 'green', fill = '#F79420') +\n",
     "  ggtitle(\"Day of travel\") +\n",
     "  xlab('day') +\n",
     "  ylab('Number of users') + \n",
